@@ -1,7 +1,7 @@
 {
   "name": "blessed-light-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A double-hue syntax theme based on Duotone Light by @simurai",
   "keywords": [
     "light",

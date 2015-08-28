@@ -1,16 +1,16 @@
 {
-  "name": "duotone-light-syntax",
+  "name": "blessed-duo-light-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A double-hue syntax theme",
+  "description": "A double-hue syntax theme based on Duotone Light by @simurai",
   "keywords": [
     "light",
-    "copper",
+    "purple",
     "blue",
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-light-syntax",
+  "repository": "https://github.com/jdsimcoe/blessed-duo-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

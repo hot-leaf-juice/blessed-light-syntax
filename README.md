@@ -1,14 +1,10 @@
-# DuoTone light
+# Blessed Duo Light Syntax
 
-A double-hue syntax theme for Atom.
+A syntax theme based on @simurai's [Duotone Light Syntax](https://github.com/simurai/duotone-light-syntax).
 
-![DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219573/744b074e-e6e1-11e4-9112-623c60f08c79.png)
+DuoTone light uses only 2 hues and 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
 
-DuoTone light uses only 2 hues (copper & blue) and 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
-
-![CSS in DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219568/5caa00cc-e6e1-11e4-894c-1722a0f742df.png)
-
-![HTML in DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219570/5cb14b2a-e6e1-11e4-9056-0280c9412e88.png)
+![Blessed Duo](https://cloud.githubusercontent.com/assets/275617/9554793/63bb7a64-4d7d-11e5-8e9c-a36cea06e6b7.png)
 
 ### Currently tested and optimized for these languages:
 
